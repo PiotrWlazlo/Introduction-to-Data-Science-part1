@@ -4,7 +4,7 @@
 #   Shermann-Morrison algorithm which was made to solve A^-1*b=z    #
 #   equation and Shermann-Morrison formula for solving a sum of     #
 #   inverted matrix A1 and diyadic product uv^T. His time           #
-#   complexity is total O(n)                                        #
+#   complexity is total O(n).                                       #
 #                                                   Piotr Wlazło    #
 #                                                   19.12.2017      #
 #####################################################################
